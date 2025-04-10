@@ -2,7 +2,7 @@
 
 Este repositório contém o desenvolvimento de uma atividade envolvento grafos, ela consiste em: 
 
-- **`Gerar`**Gerar um grafo a partir de uma matriz de números de 1 a 3, este grafo deve transformar os números em formas geométricas.
+- **`Gerar`**: Gerar um grafo a partir de uma matriz de números de 1 a 3, este grafo deve transformar os números em formas geométricas.
 - **`Relacionar`**: Ligar as formas gemoétricas de acordo com as regras.
 - **`Definir o Vencedor`**: Destacar a forma que obedece todas as regras.
 
@@ -19,5 +19,5 @@ O objetivo do trabalho é desenvolver meus conhecimentos sobre a Biblioteca Netw
 - `README.md` - Documento explicativo sobre o projeto.
 
 ## 💪 Tecnologias Utilizadas
-- **Linguagem:** Python (NetworkX, Seaborn, Pandas)
+- **Linguagem:** Python (NetworkX e Pandas)
 - **Ambiente:** Google Collaboratory e Jupyter Notebook
