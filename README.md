@@ -1,5 +1,4 @@
 # 🎮 Jogo dos Grafos
-
 Este repositório contém o desenvolvimento de uma atividade envolvento grafos, ela consiste em: 
 
 - **`Gerar`**: Gerar um grafo a partir de uma matriz de números de 1 a 3, este grafo deve transformar os números em formas geométricas.
